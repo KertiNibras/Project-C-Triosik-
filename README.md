@@ -31,7 +31,8 @@
 - **Arsitektur**: Offline (Local Network), Tidak membutuhkan koneksi internet.
 
 ## 📊 Struktur Database
-<img width="1350" height="755" alt="image" src="https://github.com/user-attachments/assets/014244ce-06f0-4a04-826c-77b2ed427709" />
+<img width="1391" height="733" alt="image" src="https://github.com/user-attachments/assets/0e399ae2-bfc8-4123-b0c7-725bf4a28014" />
+
 
 ### Tabel Utama
 
